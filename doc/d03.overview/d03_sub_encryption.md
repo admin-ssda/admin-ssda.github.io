@@ -3,6 +3,7 @@ layout: default
 title: Encryption
 parent: Overview
 nav_order: 1
+permalink: /docs/overview/encryption
 ---
 
 # 책 암호화
@@ -20,6 +21,7 @@ nav_order: 1
 * 입력한 비밀번호는 서버로 전송하지 않습니다.
 
 ***다음***을 누르면 두 번의 연습 화면으로 이동합니다. 
+
 ![](../../assets/images/ssda_02_overview_03.png){: width="400" }
 
 * 비밀번호를 반드시 기억하세요.
