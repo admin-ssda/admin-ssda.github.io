@@ -228,4 +228,15 @@
       margin-top: 0;
     }
   }
+
+  blockquote {
+    margin: 0;
+    color: #174a8c;
+    background-color: #f0f8ff;
+    border: 1px solid #f0f8ff;
+    border-left: 2px solid #006fff;
+    p {
+      margin: 1em;
+    }
+  }
 }
