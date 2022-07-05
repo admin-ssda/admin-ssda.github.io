@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SSDA Guide
-description: SSDA 편집기 사용 설명서
+title: SSDA 편집기 설명서
+description: SSDA 웹소설 편집기 사용 설명서입니다.
 baseurl: "/" # "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://doc.ssda.app" # the base hostname & protocol for your site, e.g. http://example.com
 
