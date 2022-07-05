@@ -85,7 +85,7 @@ permalink: /docs/overview/publication
 
 ![](../../assets/images/ssda_02_overview_23.png){: width="400" }
 
->{: info} 기본 규칙으로 마침표 3개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 교체하는 단일 기호 규칙이 존재합니다. 입맛에 맞게 고쳐쓰거나 규칙을 삭제해도 됩니다.
+>기본 규칙으로 마침표 3개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 교체하는 단일 기호 규칙이 존재합니다. 입맛에 맞게 고쳐쓰거나 규칙을 삭제해도 됩니다.{: info}
 
 
 ### 짝 기호
