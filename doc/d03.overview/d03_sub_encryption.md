@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Encryption
+title: 책 암호화
 parent: Overview
 nav_order: 1
 permalink: /docs/overview/encryption
