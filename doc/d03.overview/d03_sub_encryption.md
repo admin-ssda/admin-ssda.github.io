@@ -25,7 +25,7 @@ permalink: /docs/overview/encryption
 ![](../../assets/images/ssda_02_overview_03.png){: width="400" }
 
 * 비밀번호를 반드시 기억하세요.
-* 책이 암호호되면 편집을 시작할때 암호를 입력해야합니다.
+* 책이 암호화되면 편집을 시작할때 암호를 입력해야합니다.
 
 ![](../../assets/images/ssda_02_overview_04.png){: width="400" }
 
