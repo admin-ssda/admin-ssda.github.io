@@ -85,13 +85,43 @@ permalink: /docs/overview/publication
 
 ![](../../assets/images/ssda_02_overview_23.png){: width="400" }
 
->기본 규칙으로 마침표 3개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 교체하는 단일 기호 규칙이 존재합니다. 입맛에 맞게 고쳐쓰거나 규칙을 삭제해도 됩니다.
+> SSDA 편집기를 처음 사용할때 마침표 3개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 교체하는 단일 기호 규칙이 존재합니다. 입맛에 맞게 고쳐쓰거나 규칙을 삭제해도 됩니다.
 
 
 ### 짝 기호
 
-마찬가지로 홑따옴표나 쌍따옴표를 특정 기호로 치환할 수 있습니다.
+마찬가지로 홑따옴표나 쌍따옴표와 같은 기호 쌍을 치환할 수 있습니다.
 
+> 단일 기호 규칙은 인접한 기호들을 모두 교체할때 사용합니다.
 
+아래의 화면은 '홑따옴표' 쌍마다 [왼쪽 작은 따음표](https://unicode-table.com/kr/2018/)와 [오른쪽 작은 따옴표](https://unicode-table.com/kr/2019/)로 치환하는 규칙입니다.
 
+![](../../assets/images/ssda_02_overview_24.png){: width="400" }
 
+#### 예제 - 쌍따옴표 교체
+
+"쌍따옴표" 쌍을 [왼쪽 겹낱표 『](https://unicode-table.com/kr/300E/)와 [오른쪽 겹낱표 』](https://unicode-table.com/kr/300F/)로 치환하는 규칙을 추가해봅니다.
+
+***규칙추가*** 버튼을 눌러서 아래와 같이 새로운 규칙을 추가합니다.
+
+![](../../assets/images/ssda_02_overview_25.png){: width="400" }
+
+아래와 같이 대상 기호에 쌍따옴표를 하나씩 입력합니다.
+
+![](../../assets/images/ssda_02_overview_26.png){: width="400" }
+
+오른쪽의 교체 기호에 각각 왼쪽 겹낱표`U+300E`와 오른쪽 겹낱표`U+300F`를 하나씩 입력합니다.
+
+![](../../assets/images/ssda_02_overview_27.png){: width="400" }
+
+다음과 같이 쌍따옴표 쌍마다 겹낱표 쌍으로 치환하는 규칙을 만들었습니다.
+
+![](../../assets/images/ssda_02_overview_28.png){: width="400" }
+
+이제 편집기에 다음과 같이 대화를 입력합시다.
+
+![](../../assets/images/ssda_02_overview_29.png){: width="400" }
+
+***노트 출판*** 을 클릭하면 아래와 같이 쌍따옴표가 치환된 출판 물이 나타납니다.
+
+![](../../assets/images/ssda_02_overview_30.png){: width="400" }
