@@ -47,9 +47,9 @@ permalink: /docs/overview/publication
 
 예를 들어 집필 중에는 다음과 같이 마침표 2개로 말 줄임표를 나타내고
 
-* 그러니까.. 내 말은.. 그게...
+* 그러니까.. 내 말은.. 그게..\.
 
-출판할때는 마침표 2개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 나타내고 싶습니다.
+출판할때는 마침표 2개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 교체하고 싶습니다.
 
 * 그러니까…… 내 말은…… 그게…….
 
@@ -86,6 +86,7 @@ permalink: /docs/overview/publication
 ![](../../assets/images/ssda_02_overview_23.png){: width="400" }
 
 > 기본 규칙으로 마침표 3개를 수평줄임표(Horizontal Ellipsis, `U+2026`) 2개로 교체하는 단일 기호 규칙이 존재합니다. 입맛에 맞게 고쳐쓰거나 규칙을 삭제해도 됩니다.
+
 ### 짝 기호
 
 마찬가지로 홑따옴표나 쌍따옴표를 특정 기호로 치환할 수 있습니다.
