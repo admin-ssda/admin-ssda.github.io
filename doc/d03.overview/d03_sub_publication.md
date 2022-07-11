@@ -69,7 +69,7 @@ permalink: /docs/overview/publication
 
 ![](../../assets/images/ssda_02_overview_19.png){: width="400" }
 
-위의 과정을 한 번 더 진행해서 다음과 같이 2개의 마침표를 2개의 말줄임표로 치환하는 규칙을 생성했습니다.
+위의 과정을 한 번 더 진행해서 다음과 같이 2개의 마침표를 2개의 수평줄임표로 치환하는 규칙을 생성했습니다.
 
 ![](../../assets/images/ssda_02_overview_20.png){: width="400" }
 
