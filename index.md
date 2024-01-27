@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "내일의 J.K. 롤링을 꿈꾸는 당신에게, 웹소설 편집기 SSDA 사용 설명서입니다."
+description: "웹소설 저작 도구 📚SSDA📚. 소설을 쓰고 싶다면 📚SSDA📚에서 시작하세요. 인물 설정, 스토리와 플롯 구성, 타임라인, 클라우드 백업, 국어 사전, PC와 모바일 동기화 지원. 소설 편집 애플리케이션, 언제 어디서나 창작 활동을 멈추지 마세요!"
 permalink: /
 ---
 
